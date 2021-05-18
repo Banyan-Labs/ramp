@@ -9,5 +9,6 @@ run the following commands
 go to http://localhost:3000/ to see the app
 
 # Contributors
+- Jason Lyles
 
 - Austin Hill
