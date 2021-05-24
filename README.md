@@ -14,3 +14,4 @@ go to http://localhost:3000/ to see the app
 - Mike Ball
 - Scott Marino
 - Josh McLain
+- Michael Praetz
