@@ -3,12 +3,11 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './components/Navigation';
 import {Jumbotron, Button} from 'react-bootstrap';
-
-
-
+import Footer from './Footer';
 
 function App() {
   return (
+    <>
     <div className="App">
      <Navigation/>
      <Jumbotron>
@@ -21,6 +20,8 @@ function App() {
         </p>
       </Jumbotron>
     </div>
+    <Footer/>
+    </>
   );
 }
 
