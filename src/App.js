@@ -1,13 +1,18 @@
+import React from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navigation from './components/Navigation';
 import Footer from './Footer';
+import MyJumbo from './components/MyJumbo';
 
 function App() {
   return (
     <>
     <div className="App">
-      Hello Ramp Team
+      <Navigation/>
+      <MyJumbo/>
+      <Footer/>
     </div>
-    <Footer/>
     </>
   );
 }
