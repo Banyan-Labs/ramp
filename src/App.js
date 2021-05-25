@@ -1,9 +1,10 @@
 import './App.css';
+import ProjectsSection from './components/ProjectsSection'
 
 function App() {
   return (
     <div className="App">
-      Hello Ramp Team
+      <ProjectsSection />
     </div>
   );
 }
