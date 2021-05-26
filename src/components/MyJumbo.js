@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Jumbotron } from 'react-bootstrap/Button';
+import { Button, Jumbotron } from 'react-bootstrap';
 
 export default function MyJumbo() {
   return (
