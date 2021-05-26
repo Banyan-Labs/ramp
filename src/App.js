@@ -8,16 +8,15 @@ import MyJumbo from './components/MyJumbo';
 import ProjectsSection from './components/ProjectsSection'
 
 
+
 function App() {
   return (
-    <>
     <div className="App">
       <AppNavbar logo={true} logoSrc={Logo} name='Arthur Dent' />
       <MyJumbo/>
       <ProjectsSection />
       <Footer/>
     </div>
-    </>
   );
 }
 
