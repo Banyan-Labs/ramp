@@ -11,4 +11,4 @@ go to http://localhost:3000/ to see the app
 # Contributors
 
 - Austin Hill
-- Mike Ball ramp-2-mb
+- Mike Ball 
