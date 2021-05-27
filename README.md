@@ -13,3 +13,4 @@ go to http://localhost:3000/ to see the app
 - Austin Hill
 - Scott Marino
 - Josh McLain
+- Tiana Turman
