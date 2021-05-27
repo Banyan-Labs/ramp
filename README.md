@@ -12,3 +12,6 @@ go to http://localhost:3000/ to see the app
 
 - Austin Hill
 - Mike Ball 
+- Scott Marino
+- Josh McLain
+
