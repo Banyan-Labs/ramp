@@ -1,9 +1,3 @@
-# Getting Started 
-
-run the following commands
-
-`npm install`
-
 `npm start`
 
 go to http://localhost:3000/ to see the app
@@ -14,4 +8,5 @@ go to http://localhost:3000/ to see the app
 - Mike Ball
 - Scott Marino
 - Josh McLain
+- Tiana Turman
 - Michael Praetz
