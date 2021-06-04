@@ -12,7 +12,7 @@ import ProjectsSection from './components/ProjectsSection'
 function App() {
   return (
     <div className="App">
-      <AppNavbar logo={true} logoSrc={Logo} name='Arthur Dent' />
+      <AppNavbar logo={true} logoSrc={Logo} name='New Dev' />
       <MyJumbo/>
       <ProjectsSection />
       <Footer/>
