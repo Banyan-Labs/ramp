@@ -6,3 +6,4 @@ go to http://localhost:3000/ to see the app
 
 - Josh McLain
 - Austin Hill
+- Jason Lyles
