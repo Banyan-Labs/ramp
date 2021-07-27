@@ -6,4 +6,6 @@ go to http://localhost:3000/ to see the app
 
 - Josh McLain
 - Adrian Diaz
-
+- Sarah Ramos
+- Jarvis L Driver
+- Shandea Hardin
