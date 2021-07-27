@@ -6,5 +6,3 @@ go to http://localhost:3000/ to see the app
 
 - Josh McLain
 - Jarvis L Driver
-- 
-
