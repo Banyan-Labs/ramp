@@ -4,6 +4,7 @@
     justify-content: space-evenly;
     align-items: center;
     background-color: rgb(161, 142, 142);
+    height: 50vh;
 }
 .container{
 height: 50%;
