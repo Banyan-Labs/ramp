@@ -1,0 +1,11 @@
+.card-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(161, 142, 142);
+}
+.container{
+height: 50%;
+border: 0.2rem solid white;
+}
