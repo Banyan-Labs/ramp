@@ -12,8 +12,8 @@ const FeaturedCard = () => {
           <p>Lorem ipsum...</p>
         </div>
         
-        <footer class="container ">
-          <h5>Footer</h5>
+        <footer class="container foot-container ">
+          <h5>contact us</h5>
         </footer>
         </div>
         
@@ -27,8 +27,8 @@ const FeaturedCard = () => {
           <p>Lorem ipsum...</p>
         </div>
         
-        <footer class="container ">
-          <h5>Footer</h5>
+        <footer class="container foot-container ">
+        <h5>contact us</h5>
         </footer>
         </div>
         
@@ -41,8 +41,8 @@ const FeaturedCard = () => {
           <p>Lorem ipsum...</p>
         </div>
         
-        <footer class="container ">
-          <h5>Footer</h5>
+        <footer class="container foot-container ">
+        <h5>contact us</h5>
         </footer>
       </div>
       
