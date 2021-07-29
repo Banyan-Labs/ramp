@@ -1,0 +1,12 @@
+.blurbContainer {
+    position: absolute;
+    top:680px;
+    right: 450px;
+}
+
+.blurb {
+    background-color: #C4C4C4;
+    width: 378px;
+    height: 45px;
+    margin-bottom: 15px;
+}
