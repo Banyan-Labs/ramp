@@ -24,11 +24,11 @@ const Navbar = () => {
             {/* LINKS INSIDE THE DROPDOWN BOX*/}
                 <div className="dropdown-content">
                     <li >
-                    <a href="#">Learn More</a>
+                    <a href="#" id="mobileLink">Learn More</a>
                     <br></br>
-                    <a href="#">Pricing</a>
+                    <a href="#" id="mobileLink">Pricing</a>
                     <br></br>
-                    <a href="#">Login</a>
+                    <a href="#" id="mobileLink">Login</a>
                     </li>
                 </div>
 
