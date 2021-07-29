@@ -5,7 +5,7 @@ const FeaturedCard = () => {
         <div class="card-wrapper">
         <div>
           <header class="container">
-          <h1>img</h1>
+          <h1 className='img'>img</h1>
         </header>
         
         <div class="container">
@@ -20,7 +20,7 @@ const FeaturedCard = () => {
 
         <div>
           <header class="container">
-          <h1>img</h1>
+          <h1 className='img'>img</h1>
         </header>
         
         <div class="container">
@@ -34,7 +34,7 @@ const FeaturedCard = () => {
         
       <div>
          <header class="container">
-          <h1>img</h1>
+          <h1 className='img'>img</h1>
         </header>
         
         <div class="container">

@@ -14,3 +14,8 @@ border: 0.2rem solid white;
 .foot-container{
     height: 15vh;
 }
+
+.img {
+    border-radius: 50%;
+    background-color: gray;
+}
