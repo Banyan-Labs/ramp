@@ -1,21 +1,44 @@
 .card-wrapper{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
-    background-color: rgb(161, 142, 142);
-    height: 50vh;
+    background-color: rgba(161, 142, 142, 0.411);
+    /* height: 50vh; */
+    width: 100%;
+    padding: 5%;
+
+  
 }
 .container{
-height: 50%;
-border: 0.2rem solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50vh;
+    /* width: 2vw; */
+    border: 0.2rem solid rgb(27, 26, 26);
+    /* margin: 5%; */
 }
 
 .foot-container{
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
     height: 15vh;
+    width: 15vw;
+    background-color: whitesmoke;
 }
-
 .img {
     border-radius: 50%;
-    background-color: gray;
+    border: 0.1rem solid black;
+    background-color: rgb(173, 171, 171);
+}
+
+p{
+
+ background-color: rgb(117, 113, 113);
+
 }

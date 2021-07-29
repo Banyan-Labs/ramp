@@ -1,55 +1,52 @@
-import React from 'react'
+import React from "react";
 
 const FeaturedCard = () => {
-    return (
-        <div class="card-wrapper">
-        <div>
-          <header class="container">
-          <h1 className='img'>img</h1>
+  return (
+    <div class="card-wrapper">
+
+      <div className="container">
+        <header>
+          <h1 className="img">img</h1>
         </header>
-        
-        <div class="container">
+
+        <div>
           <p>Lorem ipsum...</p>
         </div>
-        
-        <footer class="container foot-container ">
+
+        <footer className=" foot-container ">
           <h5>contact us</h5>
         </footer>
-        </div>
-        
+      </div>
+
+      <div className="container">
+        <header>
+          <h1 className="img">img</h1>
+        </header>
 
         <div>
-          <header class="container">
-          <h1 className='img'>img</h1>
-        </header>
-        
-        <div class="container">
           <p>Lorem ipsum...</p>
         </div>
-        
-        <footer class="container foot-container ">
-        <h5>contact us</h5>
-        </footer>
-        </div>
-        
-      <div>
-         <header class="container">
-          <h1 className='img'>img</h1>
-        </header>
-        
-        <div class="container">
-          <p>Lorem ipsum...</p>
-        </div>
-        
-        <footer class="container foot-container ">
-        <h5>contact us</h5>
+
+        <footer class=" foot-container ">
+          <h5>contact us</h5>
         </footer>
       </div>
-      
-       
-        
-        </div>
-    )
-}
 
-export default FeaturedCard
+      <div className="container">
+        <header>
+          <h1 className="img">img</h1>
+        </header>
+
+        <div>
+          <p>Lorem ipsum...</p>
+        </div>
+
+        <footer class=" foot-container ">
+          <h5>contact us</h5>
+        </footer>
+      </div>
+    </div>
+  );
+};
+
+export default FeaturedCard;
