@@ -11,35 +11,36 @@
   align-items: center;
 }
 .box {
-  width: 308px;
-  height: 284px;
+  padding:10vw;
+  width: 25vw;
+  height: 57vh;
   background-color: #a4a4a4;
   margin-right: 90px;
 }
 .long-line {
   background-color: #a4a4a4;
-  width: 300px;
-  height: 41px;
+  width: 28vw;
+  height: 9vh;
   margin-bottom: 22px;
 }
 .med-line {
   background-color: #a4a4a4;
-  width: 230px;
-  height: 21px;
+  width: 23vw;
+  height: 4vh;
   margin-bottom: 12px;
   border-radius: 50px;
 }
 .short-line {
   background-color: #a4a4a4;
-  width: 189px;
-  height: 21px;
+  width: 18vw;
+  height: 4vh;
   margin-bottom: 22px;
   border-radius: 50px;
 }
 .pill-line {
   background-color: #606060;
-  width: 163px;
-  height: 37px;
+  width: 15vw;
+  height: 4vh;
   border-radius: 50px;
 }
 
