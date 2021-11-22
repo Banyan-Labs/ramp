@@ -5,6 +5,7 @@ const ContactForm = () => {
     <div className="contact-container">
       <form>
         <label className="contact-header">Contact Us</label>
+        <p>This is using command line</p>
         <div className="contact-name">
           <input type="text" name="firstname" placeholder="First Name" />
           <input type="text" name="lastname" placeholder="Last Name" />
