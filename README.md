@@ -11,3 +11,4 @@ go to http://localhost:3000/ to see the app
 - Jarvis L Driver
 - Shandea Hardin
 - Stephanie Kirshner
+- Jaisen Sweat
